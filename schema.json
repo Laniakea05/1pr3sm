@@ -1,0 +1,8 @@
+{
+    "name": "KasandraKlar",
+    "tuples_limit": 3,
+    "structure": {
+        "table1": ["id", "Name", "rank", "weapon"],
+        "table2": ["id", "Name"]
+    }
+}
